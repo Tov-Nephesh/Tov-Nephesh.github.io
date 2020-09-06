@@ -9,14 +9,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#   url: /talks/    
   
-  - title: "Portfolio"
-    url: /portfolio/
+ # - title: "Portfolio"
+ #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-
-  - title: "TESTING"
-    url: /testing/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
