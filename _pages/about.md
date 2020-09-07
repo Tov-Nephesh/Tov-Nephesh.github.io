@@ -29,5 +29,7 @@ Hobbies and Interests
 -----
 
 Woodworking- Fine Woodworking (decorative pieces), Pyrography, and Construction
+
 Dance- Latin (salsa, bachata) Ballroom (Cha Cha, foxtrot)
+
 Sports- Football, Lacrosse, Basketball, Golf
