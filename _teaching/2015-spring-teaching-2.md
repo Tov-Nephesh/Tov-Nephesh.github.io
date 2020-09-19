@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "IE 375/575 Advanced Manufacturing Processes"
 collection: teaching
 type: "Graduate/Undergraduate Lecture"
 permalink: /teaching/2015-spring-teaching-1
