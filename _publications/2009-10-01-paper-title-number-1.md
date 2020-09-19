@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Online RNN Model for SOC Prediction in Next Generation Hybrid Car Batteries"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This article was submitted for publication and details a Vanilla LSTM applied to a Battery This article was submitted for publication and details a Vanilla LSTM applied to a Battery time-series dataset'
@@ -12,4 +12,4 @@ Details pending.
 
 [Download paper here](http://Tov-Nephesh.github.io/files/Article1.pdf)
 
-Citation pending.
+Paper was accepted, pending citation.
