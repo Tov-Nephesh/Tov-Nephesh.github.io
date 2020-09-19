@@ -12,4 +12,4 @@ Details pending.
 
 [Download paper here](http://Tov-Nephesh.github.io/files/Article1.pdf)
 
-Paper was accepted, pending citation.
+Paper forthcoming.
