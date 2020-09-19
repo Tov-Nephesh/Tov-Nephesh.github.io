@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "ONLINE STATE OF CHARGE PREDICTION IN NEXT GENERATION VEHICLE BATTERIES USING DEEP RECURRENT NEURAL NETWORKS AND CONTINUOUS MODEL SIZE CONTROL"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is a continuation of the study from article 1. It takes a deeper dive into the topic of Deep Learning for a HEV application.'
