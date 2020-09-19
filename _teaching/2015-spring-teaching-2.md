@@ -8,7 +8,7 @@ date: 2017-08-17
 location: "Las Cruces, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This class was split between online and in-class lectures with graduate and undergraduate students.
 
 Class Focus
 ======
