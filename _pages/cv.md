@@ -31,18 +31,18 @@ B.S. in Engineering, Roger Williams University, 2008
 
 Work experience
 -----
-*Fall 2020: Research Assistant
-  *New Mexico State University
-  *Department of Civil Engineering
-  *Responsibilities: Conduct research investigations focused in Deep Learning techniques applied to civil engineering applications
+* Fall 2020: Research Assistant
+  * New Mexico State University
+  * Department of Civil Engineering
+  * Responsibilities: Conduct research investigations focused in Deep Learning techniques applied to civil engineering applications
 
 * Spring 2018: Graduate Assistant
-  *New Mexico State University
-  *Responsibilities: 3D printing lab monitor
+  * New Mexico State University
+  * Responsibilities: 3D printing lab monitor
 
 * Fall/Summer 2017: Graduate Assistant
- *New Mexico State University
- *Responsibilities: 3D printing lab monitor
+ * New Mexico State University
+ * Responsibilities: 3D printing lab monitor
   
 Skills & Knowledge
 -----
