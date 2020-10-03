@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Steven C. Hespeler"
+title                    : "Steven C. Hespeler, Ph.D."
 title_separator          : "-"
 name                     : &name "Steven Christopher Hespeler"
-description              : &description "PhD candidate at New Mexico State University in the Department of Industrial Engineering"
+description              : &description "Ph.D. Industrial Engineer"
 url                      : https://Tov-Nephesh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Tov-Nephesh/Tov-Nephesh.github.io"
