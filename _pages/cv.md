@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://Tov-Nephesh.github.io/files/Curriculum_Vitae_2020__Research.pdf)
+[Download CV here](http://Tov-Nephesh.github.io/files/Curriculum_Vitae__2020_Research.pdf)
 
 # Steven C. Hespeler
 
