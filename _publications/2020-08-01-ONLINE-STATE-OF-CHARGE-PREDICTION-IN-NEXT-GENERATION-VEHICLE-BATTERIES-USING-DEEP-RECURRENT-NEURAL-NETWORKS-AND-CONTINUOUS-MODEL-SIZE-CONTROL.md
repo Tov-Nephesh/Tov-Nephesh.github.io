@@ -10,6 +10,6 @@ citation: 'Hespeler, Steven. (2020). &quot;Paper Title Number 2.&quot; <i>Journa
 ---
 This paper is a continuation of the study from article 1. It takes a deeper dive into the topic of Deep Learning for a HEV application. It has been submitted, awaiting acceptance.
 
-[Download paper here](http://tov-nephesh.github.io/files/JEPT_article_v4[9390].pdf)
+[Download paper here](http://tov-nephesh.github.io/files/jept-0973 proof.pdf)
 
 Citation pending
