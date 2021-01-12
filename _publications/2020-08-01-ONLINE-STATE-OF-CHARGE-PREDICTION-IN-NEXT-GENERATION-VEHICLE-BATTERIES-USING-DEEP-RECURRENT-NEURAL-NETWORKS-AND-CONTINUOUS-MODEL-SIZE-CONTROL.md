@@ -12,4 +12,5 @@ This paper is a continuation of the study from article 1. It takes a deeper dive
 
 [Download paper here](http://tov-nephesh.github.io/files/jept_0973_proof.pdf)
 
-Citation pending
+Citation
+Hespeler S, Fuqua D. Online State of Charge Prediction in Next Generation Vehicle Batteries Using Deep Recurrent Neural Networks and Continuous Model Size Control. Journal of Energy and Power Technology 2021;3(1):24; doi:10.21926/jept.2101003
