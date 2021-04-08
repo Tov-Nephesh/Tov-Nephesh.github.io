@@ -13,7 +13,7 @@ Hello! I'm Steven Hespeler, welcome to my personal page! I recently completed my
 
 My Research and Work
 ------
-My work is focused in the machine/statistical learning research area. [My dissertation](https://tov-nephesh.github.io/cv/) was focused on utilizing advanced Deep Learning (DL) techniques for predicting State of Charge (SOC) in a Hybrid Electric Vehicle (HEV). In order to do so, I created a Continuous Lag Control (CLC) algorithm for monitoring and adjusting the size of the training data during a Time-Series Cross Validation (TSCV) method and embedded  this control algorithm in a Long-Short Term (LSTM) architecture.
+My work is focused in the machine/statistical learning research area. [My dissertation](https://nmsu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_journals_2481170543&context=PC&vid=01NEWMEX_INST:NMSU_LC&search_scope=MyInst_and_CI&tab=Everything&lang=en) was focused on utilizing advanced Deep Learning (DL) techniques for predicting State of Charge (SOC) in a Hybrid Electric Vehicle (HEV). In order to do so, I created a Continuous Lag Control (CLC) algorithm for monitoring and adjusting the size of the training data during a Time-Series Cross Validation (TSCV) method and embedded  this control algorithm in a Long-Short Term (LSTM) architecture.
 
 
 My Life At A Glance
